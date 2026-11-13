@@ -1,0 +1,20 @@
+[
+  [
+    {"name" :  "Item 1 de pool 1", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 2 de pool 1", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 3 de pool 1", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 4 de pool 1", "weight" :  20, "rarity" :  1}
+  ],
+  [
+    {"name" :  "Item 1 de pool 2", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 2 de pool 2", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 3 de pool 2", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 4 de pool 2", "weight" :  20, "rarity" :  1}
+  ],
+  [
+    {"name" :  "Item 1 de pool 3", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 2 de pool 3", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 3 de pool 3", "weight" :  20, "rarity" :  1},
+    {"name" :  "Item 4 de pool 3", "weight" :  20, "rarity" :  1}
+  ]
+]
